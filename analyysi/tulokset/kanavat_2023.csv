@@ -1,0 +1,118 @@
+"input","industry","name","rank","channel","channel_label","contribution","share"
+"sahko","B","Kaivostoiminta (B)",1,"B","B Kaivostoiminta ja louhinta (05-09)",0.0805186300406596,0.927442953164097
+"sahko","B","Kaivostoiminta (B)",2,"L68XL68202","68 pl. 68202 Kiinteistöalan toiminta pl. asuntojen ja asuinkiinteistöjen hallinta",0.00082981247803446,0.00955808282893126
+"sahko","B","Kaivostoiminta (B)",3,"H52","52 Varastointi ja liikennettä palveleva toiminta",0.000448420324871309,0.00516506888092161
+"sahko","C10TC12","Elintarvike (10-12)",1,"C10TC12","10-12 Elintarviketeollisuus ym.",0.0193725745323063,0.592235415237955
+"sahko","C10TC12","Elintarvike (10-12)",2,"A01","01 Kasvinviljely ja kotieläintalous, riistatalous ja niihin liittyvät palvelut",0.0065831928671002,0.201253579111897
+"sahko","C10TC12","Elintarvike (10-12)",3,"C17","17 Paperin, paperi- ja kartonkituotteiden valmistus",0.00104012505355249,0.0317974718312633
+"sahko","C13TC15","Tekstiili (13-15)",1,"C13TC15","13-15 Tekstiiliteollisuus",0.0402756092194205,0.880145353039934
+"sahko","C13TC15","Tekstiili (13-15)",2,"L68XL68202","68 pl. 68202 Kiinteistöalan toiminta pl. asuntojen ja asuinkiinteistöjen hallinta",0.000862882374931619,0.0188566213456536
+"sahko","C13TC15","Tekstiili (13-15)",3,"O84","84 Julkinen hallinto ja maanpuolustus; pakollinen sosiaalivakuutus",0.000412178969705773,0.0090073722493165
+"sahko","C16","Puutuote (16)",1,"C16","16 Sahatavaran sekä puu- ja korkkituotteiden valmistus (pl. huonekalut); olki- ja punontatuotteiden valmistus",0.0296195912734241,0.781813783539743
+"sahko","C16","Puutuote (16)",2,"A02","02 Metsätalous ja puunkorjuu",0.00133957847188961,0.0353583850563152
+"sahko","C16","Puutuote (16)",3,"G46","46 Tukkukauppa (pl. moottoriajoneuvojen ja moottoripyörien kauppa)",0.000987039904317031,0.0260530739595717
+"sahko","C17","Paperi (17)",1,"C17","17 Paperin, paperi- ja kartonkituotteiden valmistus",0.0384713846383035,0.821459040559223
+"sahko","C17","Paperi (17)",2,"C16","16 Sahatavaran sekä puu- ja korkkituotteiden valmistus (pl. huonekalut); olki- ja punontatuotteiden valmistus",0.000993955067446481,0.0212233945759944
+"sahko","C17","Paperi (17)",3,"C20","20 Kemikaalien ja kemiallisten tuotteiden valmistus",0.000835271888793874,0.0178351169531745
+"sahko","C18","Painaminen (18)",1,"C18","18 Painaminen ja tallenteiden jäljentäminen",0.0141431080605685,0.589265497049523
+"sahko","C18","Painaminen (18)",2,"C17","17 Paperin, paperi- ja kartonkituotteiden valmistus",0.0028810550990462,0.120037714319654
+"sahko","C18","Painaminen (18)",3,"L68XL68202","68 pl. 68202 Kiinteistöalan toiminta pl. asuntojen ja asuinkiinteistöjen hallinta",0.00158378318025224,0.0659875310952334
+"sahko","C19","Öljynjalostus (19)",1,"C19","19 Koksin ja jalostettujen öljytuotteiden valmistus",0.00526963757012775,0.659689488899705
+"sahko","C19","Öljynjalostus (19)",2,"C20","20 Kemikaalien ja kemiallisten tuotteiden valmistus",0.00135878095618822,0.170101549221482
+"sahko","C19","Öljynjalostus (19)",3,"C33","33 Koneiden ja laitteiden korjaus, huolto ja asennus",0.00013779721435474,0.0172504034100542
+"sahko","C20","Kemia (20)",1,"C20","20 Kemikaalien ja kemiallisten tuotteiden valmistus",0.0199819939179777,0.849025486193184
+"sahko","C20","Kemia (20)",2,"C17","17 Paperin, paperi- ja kartonkituotteiden valmistus",0.000527444883327189,0.0224108840361561
+"sahko","C20","Kemia (20)",3,"B","B Kaivostoiminta ja louhinta (05-09)",0.000455448564164416,0.0193517944311743
+"sahko","C21","Lääke (21)",1,"C21","21 Lääkeaineiden ja lääkkeiden valmistus",0.00618556375878004,0.642636854160351
+"sahko","C21","Lääke (21)",2,"C17","17 Paperin, paperi- ja kartonkituotteiden valmistus",0.000467793286299673,0.0486004538354714
+"sahko","C21","Lääke (21)",3,"C20","20 Kemikaalien ja kemiallisten tuotteiden valmistus",0.000406930612797642,0.0422772473242434
+"sahko","C22","Kumi ja muovi (22)",1,"C22","22 Kumi- ja muovituotteiden valmistus",0.0250211323998746,0.791199792715654
+"sahko","C22","Kumi ja muovi (22)",2,"C20","20 Kemikaalien ja kemiallisten tuotteiden valmistus",0.00104904902144887,0.0331722543590021
+"sahko","C22","Kumi ja muovi (22)",3,"L68XL68202","68 pl. 68202 Kiinteistöalan toiminta pl. asuntojen ja asuinkiinteistöjen hallinta",0.000881842950510876,0.0278849873179786
+"sahko","C23","Mineraalituote (23)",1,"C23","23 Muiden ei-metallisten mineraalituotteiden valmistus",0.0317431837426777,0.741572118939889
+"sahko","C23","Mineraalituote (23)",2,"B","B Kaivostoiminta ja louhinta (05-09)",0.00428285854981869,0.100054503532321
+"sahko","C23","Mineraalituote (23)",3,"L68XL68202","68 pl. 68202 Kiinteistöalan toiminta pl. asuntojen ja asuinkiinteistöjen hallinta",0.000657821313960976,0.0153677699638553
+"sahko","C24","Metallien jalostus (24)",1,"C24","24 Metallien jalostus",0.0276744718479668,0.829103796483573
+"sahko","C24","Metallien jalostus (24)",2,"B","B Kaivostoiminta ja louhinta (05-09)",0.00121071284143939,0.03627193388923
+"sahko","C24","Metallien jalostus (24)",3,"C25","25 Metallituotteiden valmistus (pl. koneet ja laitteet)",0.000969949279101036,0.0290588609646134
+"sahko","C25","Metallituote (25)",1,"C25","25 Metallituotteiden valmistus (pl. koneet ja laitteet)",0.0137803810460504,0.614284483222174
+"sahko","C25","Metallituote (25)",2,"C24","24 Metallien jalostus",0.00387717536141657,0.172831843712488
+"sahko","C25","Metallituote (25)",3,"L68XL68202","68 pl. 68202 Kiinteistöalan toiminta pl. asuntojen ja asuinkiinteistöjen hallinta",0.000640163588238063,0.0285364067702016
+"sahko","C26","Elektroniikka (26)",1,"C26","26 Tietokoneiden sekä elektronisten ja optisten tuotteiden valmistus",0.00746098948954084,0.64262845012321
+"sahko","C26","Elektroniikka (26)",2,"L68XL68202","68 pl. 68202 Kiinteistöalan toiminta pl. asuntojen ja asuinkiinteistöjen hallinta",0.000414508523613135,0.0357023650101352
+"sahko","C26","Elektroniikka (26)",3,"P85","85 Koulutus",0.000387271001499213,0.0333563482189571
+"sahko","C27","Sähkölaite (27)",1,"C27","27 Sähkölaitteiden valmistus",0.0051257596808818,0.455885836617288
+"sahko","C27","Sähkölaite (27)",2,"C24","24 Metallien jalostus",0.000940340232924665,0.0836340016857769
+"sahko","C27","Sähkölaite (27)",3,"L68XL68202","68 pl. 68202 Kiinteistöalan toiminta pl. asuntojen ja asuinkiinteistöjen hallinta",0.000458701974188325,0.0407970225449335
+"sahko","C28","Kone (28)",1,"C28","28 Muiden koneiden ja laitteiden valmistus",0.00568663060200946,0.456310801739484
+"sahko","C28","Kone (28)",2,"C25","25 Metallituotteiden valmistus (pl. koneet ja laitteet)",0.00116312319242196,0.0933321880039661
+"sahko","C28","Kone (28)",3,"C24","24 Metallien jalostus",0.000944605755022131,0.0757977508244631
+"sahko","C29","Moottoriajoneuvo (29)",1,"C29","29 Moottoriajoneuvojen, perävaunujen ja puoliperävaunujen valmistus",0.00894317354024408,0.619034969345355
+"sahko","C29","Moottoriajoneuvo (29)",2,"C24","24 Metallien jalostus",0.000831157464639149,0.0575316506303663
+"sahko","C29","Moottoriajoneuvo (29)",3,"G46","46 Tukkukauppa (pl. moottoriajoneuvojen ja moottoripyörien kauppa)",0.000565617175276557,0.0391512933505004
+"sahko","C30","Muu kulkuneuvo (30)",1,"C30","30 Muiden kulkuneuvojen valmistus",0.015576420892291,0.605949312634581
+"sahko","C30","Muu kulkuneuvo (30)",2,"C24","24 Metallien jalostus",0.00204065724499419,0.0793850438093252
+"sahko","C30","Muu kulkuneuvo (30)",3,"C25","25 Metallituotteiden valmistus (pl. koneet ja laitteet)",0.0012365064408615,0.0481022073741652
+"sahko","C31_C32","Huonekalu ja muu (31-32)",1,"C31_C32","31, 32 Muu valmistus ml. huonekalut",0.00828827936737754,0.502918864501642
+"sahko","C31_C32","Huonekalu ja muu (31-32)",2,"L68XL68202","68 pl. 68202 Kiinteistöalan toiminta pl. asuntojen ja asuinkiinteistöjen hallinta",0.00105831590392404,0.0642168306705997
+"sahko","C31_C32","Huonekalu ja muu (31-32)",3,"C16","16 Sahatavaran sekä puu- ja korkkituotteiden valmistus (pl. huonekalut); olki- ja punontatuotteiden valmistus",0.000960723640428488,0.0582950961143887
+"sahko","C33","Korjaus ja asennus (33)",1,"C33","33 Koneiden ja laitteiden korjaus, huolto ja asennus",0.014542730629491,0.722321657238729
+"sahko","C33","Korjaus ja asennus (33)",2,"L68XL68202","68 pl. 68202 Kiinteistöalan toiminta pl. asuntojen ja asuinkiinteistöjen hallinta",0.00115461518570207,0.0573484839716455
+"sahko","C33","Korjaus ja asennus (33)",3,"C24","24 Metallien jalostus",0.00042892905537743,0.0213044409617117
+"oljy","B","Kaivostoiminta (B)",1,"B","B Kaivostoiminta ja louhinta (05-09)",0.0862228941281164,0.912560447284554
+"oljy","B","Kaivostoiminta (B)",2,"H49","49 Maaliikenne ja putkijohtokuljetus",0.00431232824332833,0.0456405486079163
+"oljy","B","Kaivostoiminta (B)",3,"D35","35 Sähkö-, kaasu- ja lämpöhuolto, jäähdytysliiketoiminta",0.000767901557445256,0.00812726823680393
+"oljy","C10TC12","Elintarvike (10-12)",1,"A01","01 Kasvinviljely ja kotieläintalous, riistatalous ja niihin liittyvät palvelut",0.00932650511133214,0.41607144100501
+"oljy","C10TC12","Elintarvike (10-12)",2,"H49","49 Maaliikenne ja putkijohtokuljetus",0.00588230208060334,0.262419617411631
+"oljy","C10TC12","Elintarvike (10-12)",3,"C10TC12","10-12 Elintarviketeollisuus ym.",0.00356195164449284,0.158904791861806
+"oljy","C13TC15","Tekstiili (13-15)",1,"H49","49 Maaliikenne ja putkijohtokuljetus",0.00360356960177023,0.371127962795056
+"oljy","C13TC15","Tekstiili (13-15)",2,"C13TC15","13-15 Tekstiiliteollisuus",0.00317109281167301,0.326587618691232
+"oljy","C13TC15","Tekstiili (13-15)",3,"D35","35 Sähkö-, kaasu- ja lämpöhuolto, jäähdytysliiketoiminta",0.000412007273440746,0.0424322094330285
+"oljy","C16","Puutuote (16)",1,"A02","02 Metsätalous ja puunkorjuu",0.0174100767908475,0.51664745615433
+"oljy","C16","Puutuote (16)",2,"H49","49 Maaliikenne ja putkijohtokuljetus",0.00656502819872947,0.194818504203158
+"oljy","C16","Puutuote (16)",3,"C16","16 Sahatavaran sekä puu- ja korkkituotteiden valmistus (pl. huonekalut); olki- ja punontatuotteiden valmistus",0.00605605071030662,0.179714497035784
+"oljy","C17","Paperi (17)",1,"A02","02 Metsätalous ja puunkorjuu",0.0103410359851264,0.36856726513054
+"oljy","C17","Paperi (17)",2,"H49","49 Maaliikenne ja putkijohtokuljetus",0.00838027397378181,0.298683290920166
+"oljy","C17","Paperi (17)",3,"C17","17 Paperin, paperi- ja kartonkituotteiden valmistus",0.00489162016919895,0.174343370471988
+"oljy","C18","Painaminen (18)",1,"H49","49 Maaliikenne ja putkijohtokuljetus",0.00552405146543998,0.395377095112956
+"oljy","C18","Painaminen (18)",2,"C18","18 Painaminen ja tallenteiden jäljentäminen",0.00425526294906215,0.304565139240241
+"oljy","C18","Painaminen (18)",3,"A02","02 Metsätalous ja puunkorjuu",0.000866917034818257,0.0620485057162804
+"oljy","C20","Kemia (20)",1,"C20","20 Kemikaalien ja kemiallisten tuotteiden valmistus",0.0173302976387007,0.788116751126857
+"oljy","C20","Kemia (20)",2,"H49","49 Maaliikenne ja putkijohtokuljetus",0.00252229238760243,0.114704370539494
+"oljy","C20","Kemia (20)",3,"B","B Kaivostoiminta ja louhinta (05-09)",0.000520916000688052,0.023689300358897
+"oljy","C21","Lääke (21)",1,"C21","21 Lääkeaineiden ja lääkkeiden valmistus",0.00145875783504197,0.333265380831184
+"oljy","C21","Lääke (21)",2,"H49","49 Maaliikenne ja putkijohtokuljetus",0.00134593275988196,0.307489552426173
+"oljy","C21","Lääke (21)",3,"C20","20 Kemikaalien ja kemiallisten tuotteiden valmistus",0.000349934628760555,0.0799454813667204
+"oljy","C22","Kumi ja muovi (22)",1,"H49","49 Maaliikenne ja putkijohtokuljetus",0.00342992981273739,0.38850452232545
+"oljy","C22","Kumi ja muovi (22)",2,"C22","22 Kumi- ja muovituotteiden valmistus",0.00173678341101108,0.196723620107875
+"oljy","C22","Kumi ja muovi (22)",3,"C20","20 Kemikaalien ja kemiallisten tuotteiden valmistus",0.000906187256528773,0.102642872144998
+"oljy","C23","Mineraalituote (23)",1,"C23","23 Muiden ei-metallisten mineraalituotteiden valmistus",0.0177079666040765,0.570161254178388
+"oljy","C23","Mineraalituote (23)",2,"H49","49 Maaliikenne ja putkijohtokuljetus",0.0049796159583711,0.160333715532193
+"oljy","C23","Mineraalituote (23)",3,"B","B Kaivostoiminta ja louhinta (05-09)",0.00464280877333401,0.1494891950217
+"oljy","C24","Metallien jalostus (24)",1,"C24","24 Metallien jalostus",0.0137041395484518,0.691431960647818
+"oljy","C24","Metallien jalostus (24)",2,"H49","49 Maaliikenne ja putkijohtokuljetus",0.00260833710889279,0.131601669324503
+"oljy","C24","Metallien jalostus (24)",3,"B","B Kaivostoiminta ja louhinta (05-09)",0.00134398970719458,0.0678099807033138
+"oljy","C25","Metallituote (25)",1,"H49","49 Maaliikenne ja putkijohtokuljetus",0.00242720239374737,0.307989504053315
+"oljy","C25","Metallituote (25)",2,"C24","24 Metallien jalostus",0.00192119490673328,0.24378184037673
+"oljy","C25","Metallituote (25)",3,"C25","25 Metallituotteiden valmistus (pl. koneet ja laitteet)",0.00096895455611369,0.122951359127045
+"oljy","C26","Elektroniikka (26)",1,"H49","49 Maaliikenne ja putkijohtokuljetus",0.00137328594145217,0.354148688011324
+"oljy","C26","Elektroniikka (26)",2,"C26","26 Tietokoneiden sekä elektronisten ja optisten tuotteiden valmistus",0.000663859730291054,0.171198907241065
+"oljy","C26","Elektroniikka (26)",3,"H51","51 Ilmaliikenne",0.000212760855944394,0.0548676540831666
+"oljy","C27","Sähkölaite (27)",1,"H49","49 Maaliikenne ja putkijohtokuljetus",0.00254416950445338,0.423455119467878
+"oljy","C27","Sähkölaite (27)",2,"C27","27 Sähkölaitteiden valmistus",0.000597622228205381,0.0994690768828083
+"oljy","C27","Sähkölaite (27)",3,"C24","24 Metallien jalostus",0.000466326786045161,0.0776160804341739
+"oljy","C28","Kone (28)",1,"H49","49 Maaliikenne ja putkijohtokuljetus",0.00288574035505146,0.409339179618352
+"oljy","C28","Kone (28)",2,"C28","28 Muiden koneiden ja laitteiden valmistus",0.00145307214613591,0.20611672813334
+"oljy","C28","Kone (28)",3,"C24","24 Metallien jalostus",0.000468514982048353,0.0664583485672465
+"oljy","C29","Moottoriajoneuvo (29)",1,"H49","49 Maaliikenne ja putkijohtokuljetus",0.00348714705971005,0.452955886086903
+"oljy","C29","Moottoriajoneuvo (29)",2,"C29","29 Moottoriajoneuvojen, perävaunujen ja puoliperävaunujen valmistus",0.00164783088359345,0.214041646428727
+"oljy","C29","Moottoriajoneuvo (29)",3,"C24","24 Metallien jalostus",0.000412493203611387,0.0535799670468032
+"oljy","C30","Muu kulkuneuvo (30)",1,"H49","49 Maaliikenne ja putkijohtokuljetus",0.00214402697940892,0.260928453755454
+"oljy","C30","Muu kulkuneuvo (30)",2,"C30","30 Muiden kulkuneuvojen valmistus",0.00209826263340847,0.25535892494182
+"oljy","C30","Muu kulkuneuvo (30)",3,"C24","24 Metallien jalostus",0.00101215972394268,0.123180013245318
+"oljy","C31_C32","Huonekalu ja muu (31-32)",1,"H49","49 Maaliikenne ja putkijohtokuljetus",0.00352022512789957,0.393395557432674
+"oljy","C31_C32","Huonekalu ja muu (31-32)",2,"C31_C32","31, 32 Muu valmistus ml. huonekalut",0.00139314823814368,0.155688431227662
+"oljy","C31_C32","Huonekalu ja muu (31-32)",3,"A02","02 Metsätalous ja puunkorjuu",0.000722643006792528,0.0807574908288878
+"oljy","C33","Korjaus ja asennus (33)",1,"C33","33 Koneiden ja laitteiden korjaus, huolto ja asennus",0.00217254464230305,0.375441071255084
+"oljy","C33","Korjaus ja asennus (33)",2,"H49","49 Maaliikenne ja putkijohtokuljetus",0.00137327944876432,0.237318717110508
+"oljy","C33","Korjaus ja asennus (33)",3,"C24","24 Metallien jalostus",0.000213821199058488,0.0369507988321316

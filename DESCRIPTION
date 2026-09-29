@@ -1,0 +1,26 @@
+Package: ptfin
+Type: Package
+Title: Statistics Finland Input-Output Tables and Input-Output Analysis
+Version: 0.1.0
+Authors@R: person("Janne", "Huovari", email = "janne.huovari@gov.fi", role = c("aut", "cre"))
+Description: Fetches the input-output tables (symmetric input-output table,
+    use tables at basic and purchasers' prices, import use table) from the
+    Statistics Finland StatFin database through the PxWeb API, and provides
+    tools for input-output analysis: technical coefficients, the Leontief
+    inverse, output, value added, employment and import multipliers,
+    Rasmussen linkages, demand-driven impact analysis (Type I and II),
+    the Leontief cost-push price model and industry cost structures.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Language: fi
+Depends: R (>= 4.1)
+Imports:
+    httr,
+    jsonlite,
+    stats,
+    tools
+Suggests:
+    ggplot2,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+RoxygenNote: 7.3.1
