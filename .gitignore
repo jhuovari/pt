@@ -1,0 +1,6 @@
+.Rhistory
+.RData
+.Rproj.user/
+*.tar.gz
+ptfin.Rcheck/
+analyysi/cache/
